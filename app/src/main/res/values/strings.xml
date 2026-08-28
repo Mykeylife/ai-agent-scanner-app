@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Agent Scanner</string>
+    <string name="text_scanner">Text Scanner</string>
+    <string name="ink_remover">Ink Remover</string>
+    <string name="conversation">Conversation</string>
+    <string name="capture">Capture</string>
+    <string name="copy_text">Copy Text</string>
+    <string name="remove_ink">Remove Ink</string>
+    <string name="start_listening">Start Listening</string>
+    <string name="stop_listening">Stop Listening</string>
+    <string name="connecting_bluetooth">Connecting to Bluetooth...</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+</resources>
